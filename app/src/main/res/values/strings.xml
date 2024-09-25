@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Story</string>
+    <string name="signup">Register</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">Welcome to story app a place where you can create stories according to your own imagination.</string>
+    <string name="title_welcome_page">Welcome to Story Apps!</string>
+    <string name="title_signup_page">Sign Up Now</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Please enter your data first</string>
+    <string name="title_login_page">Ready to build your story?</string>
+    <string name="name">Name</string>
+    <string name="message_main_page">Happy Creativity</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_signup">SignupActivity</string>
+    <string name="story">Your Story</string>
+    <string name="story2">New Story</string>
+    <string name="tect_camera">Camera</string>
+    <string name="text_galery">Galery</string>
+    <string name="hint_deskripsi">Description</string>
+    <string name="text_unggah">Upload</string>
+    <string name="error_pass">Must be at least 8 characters</string>
+    <string name="hint_password">Password</string>
+    <string name="permission_denied">Permission not granted!</string>
+    <string name="choose_img">Choose image</string>
+    <string name="empty_img">Please enter the image</string>
+    <string name="up_success">New story has been uploaded</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+
+</resources>
